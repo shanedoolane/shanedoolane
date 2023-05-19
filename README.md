@@ -1,3 +1,6 @@
+![Buy me a Pizza 🍕](https://www.buymeacoffee.com/shanedolan)<br/>
+
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=shanedoolane&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
